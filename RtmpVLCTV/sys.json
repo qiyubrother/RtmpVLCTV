@@ -1,0 +1,316 @@
+{
+  "data": [
+    {
+      "Name": "安徽卫视",
+      "URL": "rtmp://58.200.131.2:1935/livetv/ahtv"
+    },
+    {
+      "Name": "兵团卫视",
+      "URL": "rtmp://58.200.131.2:1935/livetv/bttv"
+    },
+    {
+      "Name": "重庆卫视",
+      "URL": "rtmp://58.200.131.2:1935/livetv/cqtv"
+    },
+    {
+      "Name": "东方卫视",
+      "URL": "rtmp://58.200.131.2:1935/livetv/dftv"
+    },
+    {
+      "Name": "东南卫视",
+      "URL": "rtmp://58.200.131.2:1935/livetv/dntv"
+    },
+    {
+      "Name": "广东卫视",
+      "URL": "rtmp://58.200.131.2:1935/livetv/gdtv"
+    },
+    {
+      "Name": "广西卫视",
+      "URL": "rtmp://58.200.131.2:1935/livetv/gxtv"
+    },
+    {
+      "Name": "甘肃卫视",
+      "URL": "rtmp://58.200.131.2:1935/livetv/gstv"
+    },
+    {
+      "Name": "贵州卫视",
+      "URL": "rtmp://58.200.131.2:1935/livetv/gztv"
+    },
+    {
+      "Name": "湖北卫视",
+      "URL": "rtmp://58.200.131.2:1935/livetv/hbtv"
+    },
+    {
+      "Name": "湖南卫视",
+      "URL": "rtmp://58.200.131.2:1935/livetv/hunantv"
+    },
+    {
+      "Name": "河北卫视",
+      "URL": "rtmp://58.200.131.2:1935/livetv/hebtv"
+    },
+    {
+      "Name": "河南卫视",
+      "URL": "rtmp://58.200.131.2:1935/livetv/hntv"
+    },
+    {
+      "Name": "黑龙江卫视",
+      "URL": "rtmp://58.200.131.2:1935/livetv/hljtv"
+    },
+    {
+      "Name": "江苏卫视",
+      "URL": "rtmp://58.200.131.2:1935/livetv/jstv"
+    },
+    {
+      "Name": "江西卫视",
+      "URL": "rtmp://58.200.131.2:1935/livetv/jxtv"
+    },
+    {
+      "Name": "吉林卫视",
+      "URL": "rtmp://58.200.131.2:1935/livetv/jltv"
+    },
+    {
+      "Name": "辽宁卫视",
+      "URL": "rtmp://58.200.131.2:1935/livetv/lntv"
+    },
+    {
+      "Name": "内蒙古卫视",
+      "URL": "rtmp://58.200.131.2:1935/livetv/nmtv"
+    },
+    {
+      "Name": "宁夏卫视",
+      "URL": "rtmp://58.200.131.2:1935/livetv/nxtv"
+    },
+    {
+      "Name": "青海卫视",
+      "URL": "rtmp://58.200.131.2:1935/livetv/qhtv"
+    },
+    {
+      "Name": "四川卫视",
+      "URL": "rtmp://58.200.131.2:1935/livetv/sctv"
+    },
+    {
+      "Name": "山东卫视",
+      "URL": "rtmp://58.200.131.2:1935/livetv/sdtv"
+    },
+    {
+      "Name": "山西卫视",
+      "URL": "rtmp://58.200.131.2:1935/livetv/sxrtv"
+    },
+    {
+      "Name": "陕西卫视",
+      "URL": "rtmp://58.200.131.2:1935/livetv/sxtv"
+    },
+    {
+      "Name": "CCTV-国防军事",
+      "URL": "rtmp://58.200.131.2:1935/livetv/gfjstv"
+    },
+    {
+      "Name": "CCTV-世界地理",
+      "URL": "rtmp://58.200.131.2:1935/livetv/sjdltv"
+    },
+    {
+      "Name": "CGTN-新闻",
+      "URL": "rtmp://58.200.131.2:1935/livetv/cctv16"
+    },
+    {
+      "Name": "北京卫视高清",
+      "URL": "rtmp://58.200.131.2:1935/livetv/btv1hd"
+    },
+    {
+      "Name": "北京影视高清",
+      "URL": "rtmp://58.200.131.2:1935/livetv/btv4hd"
+    },
+    {
+      "Name": "北京体育高清",
+      "URL": "rtmp://58.200.131.2:1935/livetv/btv6hd"
+    },
+    {
+      "Name": "北京新闻高清",
+      "URL": "rtmp://58.200.131.2:1935/livetv/btv9hd"
+    },
+    {
+      "Name": "北京纪实高清",
+      "URL": "rtmp://58.200.131.2:1935/livetv/btv11hd"
+    },
+    {
+      "Name": "北京卫视",
+      "URL": "rtmp://58.200.131.2:1935/livetv/btv1"
+    },
+    {
+      "Name": "北京文艺",
+      "URL": "rtmp://58.200.131.2:1935/livetv/btv2"
+    },
+    {
+      "Name": "北京科教",
+      "URL": "rtmp://58.200.131.2:1935/livetv/btv3"
+    },
+    {
+      "Name": "北京影视",
+      "URL": "rtmp://58.200.131.2:1935/livetv/btv4"
+    },
+    {
+      "Name": "北京财经",
+      "URL": "rtmp://58.200.131.2:1935/livetv/btv5"
+    },
+    {
+      "Name": "北京体育",
+      "URL": "rtmp://58.200.131.2:1935/livetv/btv6"
+    },
+    {
+      "Name": "北京生活",
+      "URL": "rtmp://58.200.131.2:1935/livetv/btv7"
+    },
+    {
+      "Name": "北京青年",
+      "URL": "rtmp://58.200.131.2:1935/livetv/btv8"
+    },
+    {
+      "Name": "北京新闻",
+      "URL": "rtmp://58.200.131.2:1935/livetv/btv9"
+    },
+    {
+      "Name": "北京卡酷",
+      "URL": "rtmp://58.200.131.2:1935/livetv/btv10"
+    },
+    {
+      "Name": "北京文艺高清",
+      "URL": "rtmp://58.200.131.2:1935/livetv/btv2hd"
+    },
+    {
+      "Name": "安徽卫视高清",
+      "URL": "rtmp://58.200.131.2:1935/livetv/ahhd"
+    },
+    {
+      "Name": "重庆卫视高清",
+      "URL": "rtmp://58.200.131.2:1935/livetv/cqhd"
+    },
+    {
+      "Name": "东方卫视高清",
+      "URL": "rtmp://58.200.131.2:1935/livetv/dfhd"
+    },
+    {
+      "Name": "天津卫视高清",
+      "URL": "rtmp://58.200.131.2:1935/livetv/tjhd"
+    },
+    {
+      "Name": "东南卫视高清",
+      "URL": "rtmp://58.200.131.2:1935/livetv/dnhd"
+    },
+    {
+      "Name": "江西卫视高清",
+      "URL": "rtmp://58.200.131.2:1935/livetv/jxhd"
+    },
+    {
+      "Name": "河北卫视高清",
+      "URL": "rtmp://58.200.131.2:1935/livetv/hebhd"
+    },
+    {
+      "Name": "湖南卫视高清",
+      "URL": "rtmp://58.200.131.2:1935/livetv/hunanhd"
+    },
+    {
+      "Name": "湖北卫视高清",
+      "URL": "rtmp://58.200.131.2:1935/livetv/hbhd"
+    },
+    {
+      "Name": "辽宁卫视高清",
+      "URL": "rtmp://58.200.131.2:1935/livetv/lnhd"
+    },
+    {
+      "Name": "四川卫视高清",
+      "URL": "rtmp://58.200.131.2:1935/livetv/schd"
+    },
+    {
+      "Name": "江苏卫视高清",
+      "URL": "rtmp://58.200.131.2:1935/livetv/jshd"
+    },
+    {
+      "Name": "浙江卫视高清",
+      "URL": "rtmp://58.200.131.2:1935/livetv/zjhd"
+    },
+    {
+      "Name": "山东卫视高清",
+      "URL": "rtmp://58.200.131.2:1935/livetv/sdhd"
+    },
+    {
+      "Name": "广东卫视高清",
+      "URL": "rtmp://58.200.131.2:1935/livetv/gdhd"
+    },
+    {
+      "Name": "深圳卫视高清",
+      "URL": "rtmp://58.200.131.2:1935/livetv/szhd"
+    },
+    {
+      "Name": "黑龙江卫视高清",
+      "URL": "rtmp://58.200.131.2:1935/livetv/hljhd"
+    },
+    {
+      "Name": "CHC高清电影",
+      "URL": "rtmp://58.200.131.2:1935/livetv/chchd"
+    },
+    {
+      "Name": "CHC家庭影院",
+      "URL": "rtmp://58.200.131.2:1935/livetv/chctv"
+    },
+    {
+      "Name": "CHC动作电影",
+      "URL": "rtmp://58.200.131.2:1935/livetv/chcatv"
+    },
+    {
+      "Name": "美国电视频道",
+      "URL": "rtmp://media3.scctv.net/live/scctv_800"
+    },
+    {
+      "Name": "香港财经",
+      "URL": "rtmp://202.69.69.180:443/webcast/bshdlive-pc"
+    },
+    {
+      "Name": "CCTV-1HD",
+      "URL": "1HD:rtmp://58.200.131.2:1935/livetv/cctv1hd"
+    },
+    {
+      "Name": "CCTV-2HD",
+      "URL": "1HD:rtmp://58.200.131.2:1935/livetv/cctv2hd"
+    },
+    {
+      "Name": "CCTV-3HD",
+      "URL": "1HD:rtmp://58.200.131.2:1935/livetv/cctv3hd"
+    },
+    {
+      "Name": "CCTV-4HD",
+      "URL": "1HD:rtmp://58.200.131.2:1935/livetv/cctv4hd"
+    },
+    {
+      "Name": "CCTV-5HD",
+      "URL": "1HD:rtmp://58.200.131.2:1935/livetv/cctv5hd"
+    },
+    {
+      "Name": "CCTV-6HD",
+      "URL": "1HD:rtmp://58.200.131.2:1935/livetv/cctv6hd"
+    },
+    {
+      "Name": "CCTV-7HD",
+      "URL": "1HD:rtmp://58.200.131.2:1935/livetv/cctv7hd"
+    },
+    {
+      "Name": "CCTV-8HD",
+      "URL": "1HD:rtmp://58.200.131.2:1935/livetv/cctv8hd"
+    },
+    {
+      "Name": "CCTV-9HD",
+      "URL": "1HD:rtmp://58.200.131.2:1935/livetv/cctv9hd"
+    },
+    {
+      "Name": "CCTV-10HD",
+      "URL": "1HD:rtmp://58.200.131.2:1935/livetv/cctv10hd"
+    },
+    {
+      "Name": "CCTV-12HD",
+      "URL": "1HD:rtmp://58.200.131.2:1935/livetv/cctv12hd"
+    },
+    {
+      "Name": "CCTV-14HD",
+      "URL": "1HD:rtmp://58.200.131.2:1935/livetv/cctv14hd"
+    }
+  ]
+}
